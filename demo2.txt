@@ -1,4 +1,0 @@
-So This is the repository that you have been seeing.
-Hi This is the second file going to commit into the git repository..
-Hello folks !!
- happy dusshera!!
